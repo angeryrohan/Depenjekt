@@ -139,5 +139,4 @@ You'll notice a new file `generated.js` inside `sample` folder
 
 ## Voila! You just generated your first code base with injected dependencies. 
 
-### NOTE: Depenjekt is in `BETA`. Hence it is not at all advised to use it in production. Help me improve this library by
-opening issues and submitting a PR. I would be more than happy to review it. :)
+### NOTE: Depenjekt is in `BETA`. Hence it is not at all advised to use it in production. Help me improve this library by opening issues and submitting a PR. I would be more than happy to review it. :)
